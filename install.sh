@@ -34,8 +34,8 @@ check_running_as_root() {
 show_banner() {
     echo ""
     colorized_echo cyan "╔══════════════════════════════════════════════════╗"
-    colorized_echo cyan "║      PasarGuard Multi-Panel Installer           ║"
-    colorized_echo cyan "║  Install multiple PasarGuard panels on 1 server ║"
+    colorized_echo cyan "║      PasarGuard Multi-Panel Installer            ║"
+    colorized_echo cyan "║  Install multiple PasarGuard panels on 1 server  ║"
     colorized_echo cyan "╚══════════════════════════════════════════════════╝"
     echo ""
 }
